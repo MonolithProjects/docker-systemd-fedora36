@@ -1,0 +1,2 @@
+ignored:
+  - DL3033 #Don not want to specify version with `yum install -y <package>-<version>
