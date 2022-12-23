@@ -8,7 +8,7 @@ ENV \
 	MY_UID=1000 \
 	MY_GID=1000
 
-# hadolint ignore=SC3037
+# hadolint ignore=SC2039
 RUN for i in * ; do [ "$i" = systemd-tmpfiles-setup.service ] || rm -f "$i" ; done ; \
     rm -f /lib/systemd/system/multi-user.target.wants/* ; \
     rm -f /etc/systemd/system/*.wants/* ; \
