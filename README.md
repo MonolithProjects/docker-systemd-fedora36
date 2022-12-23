@@ -1,6 +1,6 @@
 # Fedora 36 Ansible Test Image
 
-[![GitHub Actions](https://github.com/MonolithProjects/docker-systemd-fedora36/workflows/Dockerfile%20test/badge.svg?branch=master)](https://github.com/MonolithProjects/docker-systemd-fedora36/actions)
+[![Dockerfile test](https://github.com/MonolithProjects/docker-systemd-fedora36/actions/workflows/main.yml/badge.svg)](https://github.com/MonolithProjects/docker-systemd-fedora36/actions/workflows/main.yml)
 [![DockerHub-pulls](https://img.shields.io/docker/pulls/monolithprojects/systemd-fedora36)](https://hub.docker.com/repository/docker/monolithprojects/systemd-fedora36)
 [![DockerHub-pulls](https://img.shields.io/docker/pulls/monolithprojects/systemd-fedora36)](https://hub.docker.com/repository/docker/monolithprojects/systemd-fedora36)
 [![DockerHub](https://img.shields.io/docker/image-size/monolithprojects/systemd-fedora36?sort=date)](https://hub.docker.com/repository/docker/monolithprojects/systemd-fedora36)
